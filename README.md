@@ -1,3 +1,15 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository and Reference Commit:**  
+https://github.com/luisBazanDev/TwitchKillMe/commit/14d915ac887bda114e61a88c1ebf4ad728fc540e
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
 # Twitch Kill Me
 This is a popular event among streamers on twitch. So far the best way was a mod, mod is good but limited in some aspects and this plugin is here to cover these gaps.
 
